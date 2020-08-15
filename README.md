@@ -4,10 +4,11 @@ Here is a small project I wrote to parse 21 years of Independence day speeches b
 
 
 # Libraries
-pandas
-numpy
-matplotlib
-seaborn
-wordcloud
-nltk
-ARIMA
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- wordcloud
+- nltk
+- statsmodels
+- sklearn
